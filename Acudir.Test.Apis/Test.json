@@ -1,23 +1,37 @@
-﻿[
+[
   {
-    "NombreCompleto": "Ramon Perez",
-    "Edad": "45",
-    "Domicilio": "Av Segurola 1445",
-    "Telefono": "4533542",
-    "Profesion": "Escritor"
+    "Id": 0,
+    "Nombre": null,
+    "Edad": 45
   },
   {
-    "NombreCompleto": "Rita Pavone",
-    "Edad": "78",
-    "Domicilio": "Mercedes 4112",
-    "Telefono": "45333442",
-    "Profesion": "Doctora"
+    "Id": 0,
+    "Nombre": null,
+    "Edad": 78
   },
   {
-    "NombreCompleto": "Pedro Franco",
-    "Edad": "34",
-    "Domicilio": "Camarones 2343",
-    "Telefono": "44565432",
-    "Profesion": "Programador"
+    "Id": 0,
+    "Nombre": null,
+    "Edad": 34
+  },
+  {
+    "Id": 0,
+    "Nombre": "string",
+    "Edad": 0
+  },
+  {
+    "Id": 1,
+    "Nombre": "Juan",
+    "Edad": 30
+  },
+  {
+    "Id": 2,
+    "Nombre": "Sofia",
+    "Edad": 27
+  },
+  {
+    "Id": 3,
+    "Nombre": "Carmen",
+    "Edad": 50
   }
-]  
+]
